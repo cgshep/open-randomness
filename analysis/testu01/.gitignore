@@ -1,0 +1,12 @@
+# http://www.gnu.org/software/automake
+
+
+# http://www.gnu.org/software/autoconf
+
+/autom4te.cache
+/autoscan.log
+/autoscan-*.log
+/compile
+/config.h.in
+/configure.scan
+/stamp-h1
