@@ -1,0 +1,6 @@
+[submodule "analysis/nist_800_22"]
+	path = analysis/nist_800_22
+	url = https://github.com/terrillmoore/NIST-Statistical-Test-Suite.git
+[submodule "analysis/testu01"]
+	path = analysis/testu01
+	url = https://github.com/blep/TestU01.git
